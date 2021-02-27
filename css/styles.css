@@ -68,8 +68,7 @@ html{
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  margin-left: 18%;
-  margin-right: 16%;
+  margin-right: 6%;
 }
 .col-md-3{
   max-width: 100%;
