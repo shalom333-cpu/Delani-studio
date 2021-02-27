@@ -39,3 +39,20 @@ html{
 #about{
   font-family: 'Monserrat' serif;
 }
+.services{
+  text-align: center;
+  background-image: url(../images/backgrounds/s_image.jpg);
+  background-size: cover;
+  color: aliceblue;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Monserrat' serif;
+  font-size: 18px;
+}
+.services h2{
+  font-family: 'Monserrat' serif;
+}
+#servicesoverlay{
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
