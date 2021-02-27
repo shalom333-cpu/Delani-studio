@@ -25,3 +25,8 @@ html{
   width: 70px;
   height: 70px;
 }
+#mouse-click{
+  padding-top: 22px;
+  padding-bottom: 30px;
+  margin-top: 10%;
+}
