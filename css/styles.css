@@ -19,3 +19,9 @@ html{
 .landing p{
   padding: 2px;
 }
+#logo{
+  margin-top: 12px;
+  margin-bottom: 24px;
+  width: 70px;
+  height: 70px;
+}
