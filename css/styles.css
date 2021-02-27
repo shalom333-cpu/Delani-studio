@@ -123,3 +123,35 @@ button{
   padding-bottom: 30px;
   margin-bottom: 20px;
 }
+footer{
+  text-align: center;
+  padding-top: 30px;
+  font-family: 'Monserrat' serif;
+}
+footer p{
+  margin-top: 10px;
+}
+#product, #development, #design{
+  display: none;
+  font-family: 'Monserrat' serif;
+  font-size: 16px;
+}
+#product .title, #development .title, #design .title{
+  font-size: 20px;
+  font-weight: 600;
+}
+#overlay1, #overlay2, #overlay3, #overlay4, #overlay5, #overlay6, #overlay7, #overlay8{
+  display: none;
+  color: black;
+  width: 100%;
+  height: 100%;
+  background-color: gray;
+  position: absolute;
+  top: 20px;
+  left: 25px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 50%;
+  font-family: 'Monserrat' serif;
+}
