@@ -78,7 +78,7 @@ html{
 .portfolio h2{
   text-align: center;
   padding-top:40px;
-  font-family: 'Monserrat', serif;
+  font-family: 'Gabriela', serif;
 }
 .contact{
   background-image: url(../images/backgrounds/c_image.jpg);
@@ -153,5 +153,5 @@ footer p{
   text-align: center;
   font-size: 30px;
   padding-top: 50%;
-  font-family: 'Delius Swash Caps', cursive;
+  font-family: 'Monserrat', cursive;
 }
