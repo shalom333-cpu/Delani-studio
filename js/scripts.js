@@ -23,4 +23,6 @@ $(document).ready(function () {
     $("#product").slideUp('1500');
     $("#product-image").slideDown('1500');
   });
+
+
 });
