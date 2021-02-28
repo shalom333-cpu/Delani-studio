@@ -147,9 +147,11 @@ footer p{
   position:absolute;
   top: 20px;
   left: 35px;
+  right: 35px;
+  bottom: 20px;
   font-weight: bold;
   text-align: center;
   font-size: 30px;
   padding-top: 50%;
-  font-family: 'Monserrat', cursive;
+  font-family: 'Delius Swash Caps', cursive;
 }
