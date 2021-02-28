@@ -50,11 +50,11 @@ $(document).ready(function () {
   });
 
 
-  $("form#form24").submit(function (event) {
-    var name = $("input#MERGE1").val();
-    var email = $("input#MERGE0").val();
-    var message = $("textarea#comment").val();
-    if ($("input#MERGE1").val() && $("input#MERGE0").val()) {
+  $("form#mc-embedded-subscribe-form").submit(function (event) {
+    var name = $("input#mce-NAME").val();
+    var email = $("input#mce-EMAIL").val();
+    var message = $("input#mc-embedded-subscribe").val();
+    if ($("input#mce-NAME").val() && $("input#mce-EMAIL").val()) {
       alert(name + ", we have received your message. Thank you for reaching out to us.");
     }
     else {
