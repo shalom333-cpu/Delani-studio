@@ -27,6 +27,28 @@ $(document).ready(function () {
   $("#work2").hover(function(){
     $(".overlay2",this).toggle();
   });
+  $("#work1").hover(function () {
+    $(".overlay1", this).toggle();
+  });
+  $("#work3").hover(function () {
+    $(".overlay3", this).toggle();
+  });
+  $("#work4").hover(function () {
+    $(".overlay4", this).toggle();
+  });
+  $("#work5").hover(function () {
+    $(".overlay5", this).toggle();
+  });
+  $("#work6").hover(function () {
+    $(".overlay6", this).toggle();
+  });
+  $("#work7").hover(function () {
+    $(".overlay7", this).toggle();
+  });
+  $("#work8").hover(function () {
+    $(".overlay8", this).toggle();
+  });
+
 
   $("form#form24").submit(function (event) {
     var name = $("input#MERGE1").val();
