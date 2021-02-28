@@ -24,6 +24,10 @@ $(document).ready(function () {
     $("#product-image").slideDown('1500');
   });
 
+  $("#work2").hover(function(){
+    $(".overlay2",this).toggle();
+  });
+
   $("form#form24").submit(function (event) {
     var name = $("input#MERGE1").val();
     var email = $("input#MERGE0").val();
