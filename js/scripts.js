@@ -15,4 +15,12 @@ $(document).ready(function () {
     $("#design").slideUp('1500');
     $("#design-image").slideDown('1500');
   });
+  $("#product-image").click(function () {
+    $("#product-image").slideDown('1500').hide('1000');
+    $("#product").show('1500');
+  });
+  $("#product").click(function () {
+    $("#product").slideUp('1500');
+    $("#product-image").slideDown('1500');
+  });
 });
