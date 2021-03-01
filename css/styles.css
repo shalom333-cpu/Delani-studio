@@ -78,6 +78,7 @@ html{
   align-items: center;
   margin-left:18%;
   margin-right: 16%; 
+  padding-bottom: 2em;
 }
 .col-md-3 img{
   max-width: 100%;
@@ -223,6 +224,10 @@ html{
   padding-top: 40px;
   padding-bottom: 20px;
   font-family: 'Monserrat' serif;
+}
+.card1{
+  background: transparent;
+  padding-top: 2em;
 }
 input[type=text],input[type=email],#comment{
   background: transparent;
